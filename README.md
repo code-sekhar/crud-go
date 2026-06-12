@@ -54,9 +54,9 @@ golang-crud-api/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/golang-crud-api.git
+git clone https://github.com/code-sekhar/crud-go.git
 
-cd golang-crud-api
+cd crud-go
 ```
 
 ### Install Dependencies
